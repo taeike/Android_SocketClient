@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_SocketClient</string>
+    <string name="title_activity_explain">ExplainActivity</string>
 </resources>
